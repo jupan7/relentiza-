@@ -1,2 +1,2 @@
 # relentiza-
-relentizador de musica
+relentizador de musica basico de sucof
